@@ -17,8 +17,8 @@ def load_data(filename, file_path=file_path):
     csv_path = os.path.join(file_path, filename)
     return pd.read_csv(csv_path)
 
-world_map_en_df = load_data('world_map_re.csv')
-co2_df = load_data("co2_plot_df.csv")
+world_map_en_df = pd.read_csv('world_map_re.csv')
+co2_df = pd.read_csv("co2_plot_df.csv")
 
 
 app = dash.Dash(__name__, external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css'])
@@ -73,7 +73,7 @@ app.layout = html.Div(children=[
     html.Div([
         html.H1(children='RECO2 Maps'),
         html.H2(children="A web application to show the global growth of electricity production with Renewable Energies in relation to the growth of CO2-emissions. 'RECO2'"),
-        html.H4("by Andreas Ueberschaer"),
+        html.H5("by Andreas Ueberschaer"),
 
         html.Div(children='''
             World Map displaying the growth of electricity production with renewable energies.
