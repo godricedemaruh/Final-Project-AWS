@@ -19,6 +19,7 @@ def load_data(filename, file_path=file_path):
 
 en_df = load_data('world_map_re.csv')
 co2_df = load_data("co2_plot_df.csv")
+polls = load('pollutants.csv')
 
 
 app = dash.Dash(__name__, external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css'])
@@ -39,7 +40,6 @@ fig_re.update_layout(
         'x':0.5,
         'xanchor': 'center',
         'yanchor': 'top'})
-fig_re.show()
 
 
 
@@ -63,7 +63,68 @@ fig_co2.update_layout(
         'x':0.5,
         'xanchor': 'center',
         'yanchor': 'top'})
-fig_co2.show()
+
+
+polls.drop(columns={'Unnamed: 0'}, inplace=True)
+polls = polls.query('year!=2022').fillna(0)
+polls = polls[['year', 'iso_code', 'average_m', 'average_c', 'average_o', 'average_n']]
+polls.rename(columns={"average_m": "average_methane", "average_c": "average_carbonmonoxide", "average_o":"average_ozone", "average_n":"average_nitrogendioxide"}, inplace=True)
+
+fig_co = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["red"],
+                     size="average_carbonmonoxide",
+                     animation_frame="year",
+                     projection="natural earth", width=1200, height=800, size_max=20,
+                         title='Carbonmonoxide [mol/m2]')
+fig_co.update_layout(
+    title={
+        'text': "Carbonmonoxide [mol/m2]",
+        'y':0.9,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'})
+
+
+fig_m = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["red"],
+                     size="average_methane",
+                     animation_frame="year",
+                     projection="natural earth", width=1200, height=800, size_max=20,
+                         title='Methane [mol/m2]')
+fig_m.update_layout(
+    title={
+        'text': "PMethane [mol/m2]",
+        'y':0.9,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'})
+
+
+fig_o = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["red"],
+                     size="average_ozone",
+                     animation_frame="year",
+                     projection="natural earth", width=1200, height=800, size_max=20,
+                         title='Ozone [mol/m2]')
+fig_o.update_layout(
+    title={
+        'text': "Ozone [mol/m2]",
+        'y':0.9,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'})
+
+
+fig_n = px.scatter_geo(polls_, locations="iso_code", color_discrete_sequence=["red"],
+                     size="average_nitrogendioxide",
+                     animation_frame="year",
+                     projection="natural earth", width=1200, height=800, size_max=20,
+                         title='Nitrogendioxide [mol/m2]')
+fig_n.update_layout(
+    title={
+        'text': "Nitrogendioxide [mol/m2]",
+        'y':0.9,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'})
+fig_n.show()
 
 
 
@@ -92,6 +153,55 @@ app.layout = html.Div(children=[
         dcc.Graph(
             id='fig_co2',
             figure=fig_co2
+        ),  
+    ]),
+    
+    html.Div([
+        
+        html.H5(children="World Map displaying the growth of some pollutions"),
+        html.Div(children='''
+            World Map displaying the growth of carbonmonoxide-emissions.
+        '''),
+        
+        dcc.Graph(
+            id='fig_co',
+            figure=fig_co
+        ),  
+    ]),
+    
+    html.Div([
+        
+        html.Div(children='''
+            World Map displaying the growth of methane-emissions.
+        '''),
+        
+        dcc.Graph(
+            id='fig_m',
+            figure=fig_m
+        ),  
+    ]),
+    
+    html.Div([
+        
+        html.Div(children='''
+            World Map displaying the growth of ozone-emissions.
+        '''),
+        
+        dcc.Graph(
+            id='fig_o',
+            figure=fig_o
+        ),  
+    ]),
+    
+    html.Div([
+        
+        html.Div(children='''
+            World Map displaying the growth of nitrogendioxide-emissions.
+        '''),
+        
+        dcc.Graph(
+            id='fig_n',
+            figure=fig_n
         ),  
     ]),
 ])
