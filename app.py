@@ -71,10 +71,12 @@ fig_co2 = plotly_fct(co2_df)
 
 app.layout = html.Div(children=[
     html.Div([
-        html.H1(children='Hello Dash'),
+        html.H1(children='RECO2 Maps'),
+        html.H2(children="A web application to show the global growth of electricity production with Renewable Energies in relation to the growth of CO2-emissions. 'RECO2'"),
+        html.H4("by Andreas Ueberschaer"),
 
         html.Div(children='''
-            Dash: A web application framework for Python.
+            World Map displaying the growth of electricity production with renewable energies.
         '''),
 
         dcc.Graph(
@@ -83,12 +85,11 @@ app.layout = html.Div(children=[
         ),  
     ]),
     html.Div([
-        html.H1(children='Hello Dash'),
-
+        
         html.Div(children='''
-            Dash: A web application framework for Python.
+            World Map displaying the growth of CO2-emissions.
         '''),
-
+        
         dcc.Graph(
             id='greenhouse gas',
             figure=fig_co2
