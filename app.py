@@ -13,19 +13,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pycountry
 import os
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-import dash_bootstrap_components as dbc
-s=Service(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=s)
-from selenium.webdriver.chrome.options import Options
-
-chrome_options = Options()
-chrome_options.add_argument('--headless')
-chrome_options.add_argument('--disable-gpu')
-
-
-
 
 # file_path = os.path.join(os.getcwd(), "data")
 
@@ -34,16 +21,13 @@ chrome_options.add_argument('--disable-gpu')
 #     csv_path = os.path.join(file_path, filename)
 #     return pd.read_csv(csv_path)
 
-# co2_df = load_data("co2_plot_df.csv")
 
-app = dash.Dash(__name__, external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css'])
-server = app.server
-app.config.suppress_callback_exceptions = True
+app = dash.Dash(__name__)
 
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options
 
-
+# co2_plot_df = pd.read_csv("co2_plot_df.csv")
 
 urlfile = 'https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv'
 data_en = pd.read_csv(urlfile)
@@ -87,7 +71,7 @@ def world_map_re(data):
 
 def co2_plot_df():
     url = "https://edgar.jrc.ec.europa.eu/report_2021#emissions_table"
-#     driver = webdriver.Chrome('bin/chromedriver')
+    driver = webdriver.Chrome('/Users/godri/Documents/WBS/Final_Project/reco2-dict/bin')
     driver.get(url)
     test_text = driver.find_element(By.CLASS_NAME, "ecl-table__body").find_element(By.CSS_SELECTOR, 'tr:nth-child(3)').text
     test_list = [td.text for td in driver.find_elements(By.XPATH, "//tbody[@class='ecl-table__body']/tr")]
@@ -154,17 +138,18 @@ def plotly_fct(data):
 
 co2_df = co2_plot_df()
 
-
 fig_re = data_en.pipe(start_pipeline).pipe(df_re_creation).pipe(world_map_re)
 fig_co2 = co2_df.pipe(plotly_fct)
 
 app.layout = html.Div(children=[
     # All elements from the top of the page
     html.Div([
-        html.H1(children='Hello Dash'),
+        html.H1(children='RECO2 Maps'),
+        html.H2(children="A web application to show the global growth of electricity production with Renewable Energies in relation to the growth of CO2-emissions. 'RECO2'")
+        html.H4("by Andreas Ueberschaer"),
 
         html.Div(children='''
-            Dash: A web application framework for Python.
+            World Map displaying the growth of electricity production with renewable energies.
         '''),
 
         dcc.Graph(
@@ -174,10 +159,9 @@ app.layout = html.Div(children=[
     ]),
     # New Div for all elements in the new 'row' of the page
     html.Div([
-        html.H1(children='Hello Dash'),
-
+        
         html.Div(children='''
-            Dash: A web application framework for Python.
+            World Map displaying the growth of CO2-emissions.
         '''),
 
         dcc.Graph(
