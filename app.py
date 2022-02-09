@@ -12,12 +12,38 @@ import country_converter as coco
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pycountry
+import os
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+import dash_bootstrap_components as dbc
+s=Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=s)
+from selenium.webdriver.chrome.options import Options
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+chrome_options = Options()
+chrome_options.add_argument('--headless')
+chrome_options.add_argument('--disable-gpu')
+
+
+
+
+# file_path = os.path.join(os.getcwd(), "data")
+
+
+# def load_data(filename, file_path=file_path):
+#     csv_path = os.path.join(file_path, filename)
+#     return pd.read_csv(csv_path)
+
+# co2_df = load_data("co2_plot_df.csv")
+
+app = dash.Dash(__name__, external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css'])
+server = app.server
+app.config.suppress_callback_exceptions = True
 
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options
+
+
 
 urlfile = 'https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv'
 data_en = pd.read_csv(urlfile)
@@ -61,7 +87,7 @@ def world_map_re(data):
 
 def co2_plot_df():
     url = "https://edgar.jrc.ec.europa.eu/report_2021#emissions_table"
-    driver = webdriver.Chrome()
+#     driver = webdriver.Chrome('bin/chromedriver')
     driver.get(url)
     test_text = driver.find_element(By.CLASS_NAME, "ecl-table__body").find_element(By.CSS_SELECTOR, 'tr:nth-child(3)').text
     test_list = [td.text for td in driver.find_elements(By.XPATH, "//tbody[@class='ecl-table__body']/tr")]
@@ -126,8 +152,11 @@ def plotly_fct(data):
             'yanchor': 'top'})
     return fig.show()
 
+co2_df = co2_plot_df()
+
+
 fig_re = data_en.pipe(start_pipeline).pipe(df_re_creation).pipe(world_map_re)
-fig_co2 = co2_plot_df().pipe(plotly_fct)
+fig_co2 = co2_df.pipe(plotly_fct)
 
 app.layout = html.Div(children=[
     # All elements from the top of the page
@@ -159,5 +188,5 @@ app.layout = html.Div(children=[
 ])
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     app.run_server(debug=True)
