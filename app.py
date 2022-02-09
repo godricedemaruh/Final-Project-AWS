@@ -32,10 +32,10 @@ fig_re = px.scatter_geo(en_df, locations="iso_code", color_discrete_sequence=["g
                  hover_name="Country", size="all_renew_electricity",
                  animation_frame="Year",
                  projection="natural earth", width=1200, height=800, size_max=70,
-                     title='Electricity with renewable energies [TWh]')
+                     title='Electricity with renewable energy [TWh]')
 fig_re.update_layout(
     title={
-        'text': "Electricity with renewable energies [TWh]",
+        'text': "Electricity with renewable energy [TWh]",
         'y':0.9,
         'x':0.5,
         'xanchor': 'center',
@@ -131,11 +131,11 @@ fig_n.show()
 app.layout = html.Div(children=[
     html.Div([
         html.H1(children='RECO2 Maps'),
-        html.H2(children="A web application to show the global growth of electricity production with Renewable Energies in relation to the growth of CO2-emissions. 'RECO2'"),
+        html.H2(children="A web application to show the global growth of electricity production with Renewable Energy in relation to the growth of CO2-emissions. 'RECO2'"),
         html.H5("by Andreas Ueberschaer"),
 
         html.Div(children='''
-            World Map displaying the growth of electricity production with renewable energies.
+            World Map displaying the growth of electricity production with renewable energy.
         '''),
 
         dcc.Graph(
