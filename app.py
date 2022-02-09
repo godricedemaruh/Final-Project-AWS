@@ -112,7 +112,7 @@ fig_o.update_layout(
         'yanchor': 'top'})
 
 
-fig_n = px.scatter_geo(polls_, locations="iso_code", color_discrete_sequence=["grey"],
+fig_n = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["grey"],
                      size="average_nitrogendioxide",
                      animation_frame="year",
                      projection="natural earth", width=1200, height=800, size_max=20,
