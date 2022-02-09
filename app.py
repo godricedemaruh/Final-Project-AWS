@@ -19,7 +19,7 @@ def load_data(filename, file_path=file_path):
 
 en_df = load_data('world_map_re.csv')
 co2_df = load_data("co2_plot_df.csv")
-polls = load('pollutants.csv')
+polls = load_data('pollutants.csv')
 
 
 app = dash.Dash(__name__, external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css'])
@@ -66,11 +66,11 @@ fig_co2.update_layout(
 
 
 polls.drop(columns={'Unnamed: 0'}, inplace=True)
-polls = polls.query('year!=2022').fillna(0)
+polls = polls.query('year<=2020').fillna(0)
 polls = polls[['year', 'iso_code', 'average_m', 'average_c', 'average_o', 'average_n']]
 polls.rename(columns={"average_m": "average_methane", "average_c": "average_carbonmonoxide", "average_o":"average_ozone", "average_n":"average_nitrogendioxide"}, inplace=True)
 
-fig_co = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["red"],
+fig_co = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["grey"],
                      size="average_carbonmonoxide",
                      animation_frame="year",
                      projection="natural earth", width=1200, height=800, size_max=20,
@@ -84,7 +84,7 @@ fig_co.update_layout(
         'yanchor': 'top'})
 
 
-fig_m = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["red"],
+fig_m = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["grey"],
                      size="average_methane",
                      animation_frame="year",
                      projection="natural earth", width=1200, height=800, size_max=20,
@@ -98,7 +98,7 @@ fig_m.update_layout(
         'yanchor': 'top'})
 
 
-fig_o = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["red"],
+fig_o = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["grey"],
                      size="average_ozone",
                      animation_frame="year",
                      projection="natural earth", width=1200, height=800, size_max=20,
@@ -112,7 +112,7 @@ fig_o.update_layout(
         'yanchor': 'top'})
 
 
-fig_n = px.scatter_geo(polls_, locations="iso_code", color_discrete_sequence=["red"],
+fig_n = px.scatter_geo(polls_, locations="iso_code", color_discrete_sequence=["grey"],
                      size="average_nitrogendioxide",
                      animation_frame="year",
                      projection="natural earth", width=1200, height=800, size_max=20,
