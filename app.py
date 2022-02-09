@@ -17,6 +17,9 @@ def load_data(filename, file_path=file_path):
     csv_path = os.path.join(file_path, filename)
     return pd.read_csv(csv_path)
 
+world_map_en_df = load_data('world_map_re.csv')
+co2_df = load_data("co2_plot_df.csv")
+
 
 app = dash.Dash(__name__, external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css'])
 server = app.server
