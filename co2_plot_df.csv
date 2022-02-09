@@ -1,0 +1,1471 @@
+,Country_1,Year,CO2_Mton
+0,Afghanistan ,1990,2.84
+1,Afghanistan ,2000,1.0
+2,Afghanistan ,2005,1.2
+3,Afghanistan ,2010,7.26
+4,Afghanistan ,2015,7.71
+5,Afghanistan ,2019,12.05
+6,Afghanistan ,2020,11.95
+7,Albania ,1990,6.65
+8,Albania ,2000,3.26
+9,Albania ,2005,4.2
+10,Albania ,2010,4.6
+11,Albania ,2015,4.89
+12,Albania ,2019,5.58
+13,Albania ,2020,5.1
+14,Algeria ,1990,68.0
+15,Algeria ,2000,83.73
+16,Algeria ,2005,98.61
+17,Algeria ,2010,116.53
+18,Algeria ,2015,161.48
+19,Algeria ,2019,176.63
+20,Algeria ,2020,163.47
+21,Angola ,1990,11.3
+22,Angola ,2000,16.61
+23,Angola ,2005,15.98
+24,Angola ,2010,23.84
+25,Angola ,2015,32.61
+26,Angola ,2019,24.46
+27,Angola ,2020,22.51
+28,Anguilla ,1990,0.01
+29,Anguilla ,2000,0.02
+30,Anguilla ,2005,0.01
+31,Anguilla ,2010,0.02
+32,Anguilla ,2015,0.03
+33,Anguilla ,2019,0.03
+34,Anguilla ,2020,0.02
+35,Antigua and Barbuda ,1990,0.4
+36,Antigua and Barbuda ,2000,0.41
+37,Antigua and Barbuda ,2005,0.48
+38,Antigua and Barbuda ,2010,0.57
+39,Antigua and Barbuda ,2015,0.72
+40,Antigua and Barbuda ,2019,0.53
+41,Antigua and Barbuda ,2020,0.46
+42,Argentina ,1990,108.15
+43,Argentina ,2000,150.87
+44,Argentina ,2005,165.9
+45,Argentina ,2010,191.83
+46,Argentina ,2015,210.72
+47,Argentina ,2019,188.74
+48,Argentina ,2020,176.51
+49,Armenia ,1990,20.7
+50,Armenia ,2000,3.66
+51,Armenia ,2005,4.55
+52,Armenia ,2010,4.47
+53,Armenia ,2015,5.01
+54,Armenia ,2019,5.48
+55,Armenia ,2020,5.82
+56,Aruba ,1990,0.53
+57,Aruba ,2000,0.84
+58,Aruba ,2005,1.11
+59,Aruba ,2010,1.01
+60,Aruba ,2015,1.17
+61,Aruba ,2019,0.85
+62,Aruba ,2020,0.74
+63,Australia ,1990,278.2
+64,Australia ,2000,354.76
+65,Australia ,2005,386.37
+66,Australia ,2010,408.46
+67,Australia ,2015,397.48
+68,Australia ,2019,413.77
+69,Australia ,2020,386.44
+70,Austria ,1990,62.71
+71,Austria ,2000,67.98
+72,Austria ,2005,81.54
+73,Austria ,2010,74.99
+74,Austria ,2015,68.93
+75,Austria ,2019,71.0
+76,Austria ,2020,63.69
+77,Azerbaijan ,1990,54.64
+78,Azerbaijan ,2000,28.06
+79,Azerbaijan ,2005,30.49
+80,Azerbaijan ,2010,24.76
+81,Azerbaijan ,2015,32.8
+82,Azerbaijan ,2019,35.16
+83,Azerbaijan ,2020,33.89
+84,Bahamas ,1990,2.76
+85,Bahamas ,2000,3.15
+86,Bahamas ,2005,2.44
+87,Bahamas ,2010,2.67
+88,Bahamas ,2015,2.82
+89,Bahamas ,2019,2.18
+90,Bahamas ,2020,1.89
+91,Bahrain ,1990,11.99
+92,Bahrain ,2000,17.77
+93,Bahrain ,2005,23.37
+94,Bahrain ,2010,28.84
+95,Bahrain ,2015,33.6
+96,Bahrain ,2019,36.27
+97,Bahrain ,2020,36.67
+98,Bangladesh ,1990,14.41
+99,Bangladesh ,2000,27.56
+100,Bangladesh ,2005,39.94
+101,Bangladesh ,2010,59.81
+102,Bangladesh ,2015,84.97
+103,Bangladesh ,2019,110.16
+104,Bangladesh ,2020,108.5
+105,Barbados ,1990,1.28
+106,Barbados ,2000,1.43
+107,Barbados ,2005,1.5
+108,Barbados ,2010,1.57
+109,Barbados ,2015,1.68
+110,Barbados ,2019,1.3
+111,Barbados ,2020,1.14
+112,Belarus ,1990,109.0
+113,Belarus ,2000,56.92
+114,Belarus ,2005,61.29
+115,Belarus ,2010,66.7
+116,Belarus ,2015,59.81
+117,Belarus ,2019,62.66
+118,Belarus ,2020,58.97
+119,Belgium ,1990,116.63
+120,Belgium ,2000,125.74
+121,Belgium ,2005,119.34
+122,Belgium ,2010,115.51
+123,Belgium ,2015,102.76
+124,Belgium ,2019,99.35
+125,Belgium ,2020,84.08
+126,Belize ,1990,0.3
+127,Belize ,2000,0.4
+128,Belize ,2005,0.4
+129,Belize ,2010,0.45
+130,Belize ,2015,0.58
+131,Belize ,2019,0.46
+132,Belize ,2020,0.4
+133,Benin ,1990,0.42
+134,Benin ,2000,1.57
+135,Benin ,2005,2.84
+136,Benin ,2010,5.1
+137,Benin ,2015,5.8
+138,Benin ,2019,8.14
+139,Benin ,2020,7.35
+140,Bermuda ,1990,0.63
+141,Bermuda ,2000,0.46
+142,Bermuda ,2005,0.53
+143,Bermuda ,2010,0.65
+144,Bermuda ,2015,0.6
+145,Bermuda ,2019,0.57
+146,Bermuda ,2020,0.5
+147,Bhutan ,1990,0.17
+148,Bhutan ,2000,0.35
+149,Bhutan ,2005,0.5
+150,Bhutan ,2010,0.88
+151,Bhutan ,2015,1.22
+152,Bhutan ,2019,1.47
+153,Bhutan ,2020,1.46
+154,Bolivia ,1990,6.54
+155,Bolivia ,2000,8.3
+156,Bolivia ,2005,9.91
+157,Bolivia ,2010,14.77
+158,Bolivia ,2015,19.43
+159,Bolivia ,2019,24.01
+160,Bolivia ,2020,20.64
+161,Bosnia and Herzegovina ,1990,24.63
+162,Bosnia and Herzegovina ,2000,14.36
+163,Bosnia and Herzegovina ,2005,16.92
+164,Bosnia and Herzegovina ,2010,22.26
+165,Bosnia and Herzegovina ,2015,20.87
+166,Bosnia and Herzegovina ,2019,27.11
+167,Bosnia and Herzegovina ,2020,23.43
+168,Botswana ,1990,2.83
+169,Botswana ,2000,4.19
+170,Botswana ,2005,4.47
+171,Botswana ,2010,3.51
+172,Botswana ,2015,7.21
+173,Botswana ,2019,7.56
+174,Botswana ,2020,7.05
+175,Brazil ,1990,228.3
+176,Brazil ,2000,362.97
+177,Brazil ,2005,382.82
+178,Brazil ,2010,447.99
+179,Brazil ,2015,523.98
+180,Brazil ,2019,476.98
+181,Brazil ,2020,451.8
+182,British Virgin Islands ,1990,0.04
+183,British Virgin Islands ,2000,0.08
+184,British Virgin Islands ,2005,0.1
+185,British Virgin Islands ,2010,0.14
+186,British Virgin Islands ,2015,0.18
+187,British Virgin Islands ,2019,0.16
+188,British Virgin Islands ,2020,0.14
+189,Brunei ,1990,3.34
+190,Brunei ,2000,4.89
+191,Brunei ,2005,5.18
+192,Brunei ,2010,7.34
+193,Brunei ,2015,6.52
+194,Brunei ,2019,8.01
+195,Brunei ,2020,7.98
+196,Bulgaria ,1990,79.13
+197,Bulgaria ,2000,47.75
+198,Bulgaria ,2005,52.07
+199,Bulgaria ,2010,48.65
+200,Bulgaria ,2015,48.66
+201,Bulgaria ,2019,42.98
+202,Bulgaria ,2020,38.01
+203,Burkina Faso ,1990,0.39
+204,Burkina Faso ,2000,1.03
+205,Burkina Faso ,2005,1.25
+206,Burkina Faso ,2010,2.05
+207,Burkina Faso ,2015,3.48
+208,Burkina Faso ,2019,3.61
+209,Burkina Faso ,2020,3.25
+210,Burundi ,1990,0.23
+211,Burundi ,2000,0.34
+212,Burundi ,2005,0.2
+213,Burundi ,2010,0.26
+214,Burundi ,2015,0.43
+215,Burundi ,2019,0.33
+216,Burundi ,2020,0.29
+217,Cabo Verde ,1990,0.06
+218,Cabo Verde ,2000,0.32
+219,Cabo Verde ,2005,0.68
+220,Cabo Verde ,2010,0.8
+221,Cabo Verde ,2015,0.8
+222,Cabo Verde ,2019,0.9
+223,Cabo Verde ,2020,0.8
+224,Cambodia ,1990,0.42
+225,Cambodia ,2000,2.0
+226,Cambodia ,2005,2.68
+227,Cambodia ,2010,5.01
+228,Cambodia ,2015,8.76
+229,Cambodia ,2019,15.97
+230,Cambodia ,2020,15.82
+231,Cameroon ,1990,4.81
+232,Cameroon ,2000,5.79
+233,Cameroon ,2005,5.54
+234,Cameroon ,2010,7.69
+235,Cameroon ,2015,9.19
+236,Cameroon ,2019,9.84
+237,Cameroon ,2020,9.31
+238,Canada ,1990,453.6
+239,Canada ,2000,557.75
+240,Canada ,2005,579.5
+241,Canada ,2010,566.98
+242,Canada ,2015,595.4
+243,Canada ,2019,595.39
+244,Canada ,2020,542.79
+245,Cayman Islands ,1990,0.28
+246,Cayman Islands ,2000,0.4
+247,Cayman Islands ,2005,0.41
+248,Cayman Islands ,2010,0.5
+249,Cayman Islands ,2015,0.62
+250,Cayman Islands ,2019,0.49
+251,Cayman Islands ,2020,0.42
+252,Central African Republic ,1990,0.19
+253,Central African Republic ,2000,0.34
+254,Central African Republic ,2005,0.35
+255,Central African Republic ,2010,0.38
+256,Central African Republic ,2015,0.4
+257,Central African Republic ,2019,0.4
+258,Central African Republic ,2020,0.35
+259,Chad ,1990,0.28
+260,Chad ,2000,0.29
+261,Chad ,2005,0.51
+262,Chad ,2010,0.47
+263,Chad ,2015,0.92
+264,Chad ,2019,0.86
+265,Chad ,2020,0.82
+266,Chile ,1990,33.01
+267,Chile ,2000,53.42
+268,Chile ,2005,58.88
+269,Chile ,2010,72.06
+270,Chile ,2015,84.05
+271,Chile ,2019,90.58
+272,Chile ,2020,84.56
+273,China ,1990,2425.65
+274,China ,2000,3705.67
+275,China ,2005,6338.56
+276,China ,2010,9296.49
+277,China ,2015,10722.41
+278,China ,2019,11503.86
+279,China ,2020,11680.42
+280,Colombia ,1990,52.53
+281,Colombia ,2000,61.71
+282,Colombia ,2005,60.92
+283,Colombia ,2010,66.82
+284,Colombia ,2015,85.45
+285,Colombia ,2019,92.62
+286,Colombia ,2020,90.25
+287,Comoros ,1990,0.05
+288,Comoros ,2000,0.1
+289,Comoros ,2005,0.15
+290,Comoros ,2010,0.16
+291,Comoros ,2015,0.17
+292,Comoros ,2019,0.3
+293,Comoros ,2020,0.25
+294,COG,1990,2.4
+295,COG,2000,4.54
+296,COG,2005,4.36
+297,COG,2010,5.33
+298,COG,2015,5.78
+299,COG,2019,6.35
+300,COG,2020,6.18
+301,Cook Islands ,1990,0.04
+302,Cook Islands ,2000,0.05
+303,Cook Islands ,2005,0.07
+304,Cook Islands ,2010,0.06
+305,Cook Islands ,2015,0.08
+306,Cook Islands ,2019,0.06
+307,Cook Islands ,2020,0.06
+308,Costa Rica ,1990,2.93
+309,Costa Rica ,2000,5.14
+310,Costa Rica ,2005,6.36
+311,Costa Rica ,2010,7.3
+312,Costa Rica ,2015,7.77
+313,Costa Rica ,2019,8.85
+314,Costa Rica ,2020,7.82
+315,Côte d’Ivoire ,1990,3.03
+316,Côte d’Ivoire ,2000,7.06
+317,Côte d’Ivoire ,2005,6.55
+318,Côte d’Ivoire ,2010,7.58
+319,Côte d’Ivoire ,2015,11.49
+320,Côte d’Ivoire ,2019,12.53
+321,Côte d’Ivoire ,2020,12.1
+322,Croatia ,1990,25.16
+323,Croatia ,2000,19.62
+324,Croatia ,2005,23.66
+325,Croatia ,2010,21.46
+326,Croatia ,2015,18.54
+327,Croatia ,2019,18.66
+328,Croatia ,2020,17.7
+329,Cuba ,1990,38.54
+330,Cuba ,2000,28.95
+331,Cuba ,2005,26.18
+332,Cuba ,2010,30.63
+333,Cuba ,2015,27.9
+334,Cuba ,2019,26.18
+335,Cuba ,2020,22.94
+336,Curaçao ,1990,2.67
+337,Curaçao ,2000,5.67
+338,Curaçao ,2005,6.03
+339,Curaçao ,2010,4.44
+340,Curaçao ,2015,4.73
+341,Curaçao ,2019,3.18
+342,Curaçao ,2020,2.76
+343,Cyprus ,1990,4.44
+344,Cyprus ,2000,6.91
+345,Cyprus ,2005,7.79
+346,Cyprus ,2010,7.85
+347,Cyprus ,2015,6.75
+348,Cyprus ,2019,7.16
+349,Cyprus ,2020,6.27
+350,Czechia ,1990,162.92
+351,Czechia ,2000,130.39
+352,Czechia ,2005,127.03
+353,Czechia ,2010,120.48
+354,Czechia ,2015,107.73
+355,Czechia ,2019,105.11
+356,Czechia ,2020,92.08
+357,Democratic Republic of the Congo ,1990,3.44
+358,Democratic Republic of the Congo ,2000,1.97
+359,Democratic Republic of the Congo ,2005,2.59
+360,Democratic Republic of the Congo ,2010,3.05
+361,Democratic Republic of the Congo ,2015,3.57
+362,Democratic Republic of the Congo ,2019,3.48
+363,Democratic Republic of the Congo ,2020,3.23
+364,Denmark ,1990,53.55
+365,Denmark ,2000,53.9
+366,Denmark ,2005,51.42
+367,Denmark ,2010,49.14
+368,Denmark ,2015,34.6
+369,Denmark ,2019,30.27
+370,Denmark ,2020,25.71
+371,Djibouti ,1990,1.19
+372,Djibouti ,2000,0.84
+373,Djibouti ,2005,0.82
+374,Djibouti ,2010,0.86
+375,Djibouti ,2015,0.8
+376,Djibouti ,2019,1.02
+377,Djibouti ,2020,0.85
+378,Dominica ,1990,0.05
+379,Dominica ,2000,0.11
+380,Dominica ,2005,0.13
+381,Dominica ,2010,0.15
+382,Dominica ,2015,0.18
+383,Dominica ,2019,0.18
+384,Dominica ,2020,0.15
+385,Dominican Republic ,1990,8.04
+386,Dominican Republic ,2000,19.01
+387,Dominican Republic ,2005,18.8
+388,Dominican Republic ,2010,20.82
+389,Dominican Republic ,2015,23.82
+390,Dominican Republic ,2019,28.06
+391,Dominican Republic ,2020,29.09
+392,Ecuador ,1990,17.59
+393,Ecuador ,2000,21.89
+394,Ecuador ,2005,28.38
+395,Ecuador ,2010,38.63
+396,Ecuador ,2015,42.58
+397,Ecuador ,2019,40.01
+398,Ecuador ,2020,33.28
+399,Egypt ,1990,91.05
+400,Egypt ,2000,127.21
+401,Egypt ,2005,177.62
+402,Egypt ,2010,211.96
+403,Egypt ,2015,240.84
+404,Egypt ,2019,282.34
+405,Egypt ,2020,269.55
+406,El Salvador ,1990,2.64
+407,El Salvador ,2000,5.83
+408,El Salvador ,2005,6.95
+409,El Salvador ,2010,6.75
+410,El Salvador ,2015,7.38
+411,El Salvador ,2019,7.68
+412,El Salvador ,2020,6.79
+413,Equatorial Guinea ,1990,0.09
+414,Equatorial Guinea ,2000,2.68
+415,Equatorial Guinea ,2005,6.11
+416,Equatorial Guinea ,2010,7.44
+417,Equatorial Guinea ,2015,5.47
+418,Equatorial Guinea ,2019,4.3
+419,Equatorial Guinea ,2020,4.28
+420,Eritrea ,1990,0.39
+421,Eritrea ,2000,0.67
+422,Eritrea ,2005,0.61
+423,Eritrea ,2010,0.5
+424,Eritrea ,2015,0.67
+425,Eritrea ,2019,0.85
+426,Eritrea ,2020,0.73
+427,Estonia ,1990,36.08
+428,Estonia ,2000,16.97
+429,Estonia ,2005,19.66
+430,Estonia ,2010,22.09
+431,Estonia ,2015,19.63
+432,Estonia ,2019,16.22
+433,Estonia ,2020,14.37
+434,Eswatini ,1990,0.96
+435,Eswatini ,2000,2.56
+436,Eswatini ,2005,2.75
+437,Eswatini ,2010,2.91
+438,Eswatini ,2015,1.49
+439,Eswatini ,2019,1.57
+440,Eswatini ,2020,1.46
+441,Ethiopia ,1990,2.4
+442,Ethiopia ,2000,3.74
+443,Ethiopia ,2005,5.37
+444,Ethiopia ,2010,6.82
+445,Ethiopia ,2015,13.47
+446,Ethiopia ,2019,19.08
+447,Ethiopia ,2020,17.01
+448,Falkland Islands ,1990,0.01
+449,Falkland Islands ,2000,0.02
+450,Falkland Islands ,2005,0.03
+451,Falkland Islands ,2010,0.04
+452,Falkland Islands ,2015,0.04
+453,Falkland Islands ,2019,0.03
+454,Falkland Islands ,2020,0.03
+455,Faroes ,1990,0.0
+456,Faroes ,2000,0.0
+457,Faroes ,2005,0.0
+458,Faroes ,2010,0.0
+459,Faroes ,2015,0.0
+460,Faroes ,2019,0.0
+461,Faroes ,2020,0.0
+462,Fiji ,1990,0.96
+463,Fiji ,2000,1.35
+464,Fiji ,2005,1.58
+465,Fiji ,2010,0.91
+466,Fiji ,2015,2.38
+467,Fiji ,2019,2.43
+468,Fiji ,2020,2.38
+469,Finland ,1990,57.28
+470,Finland ,2000,57.87
+471,Finland ,2005,58.32
+472,Finland ,2010,65.86
+473,Finland ,2015,46.07
+474,Finland ,2019,44.2
+475,Finland ,2020,40.7
+476,France,1990,385.48
+477,France,2000,401.75
+478,France,2005,407.89
+479,France,2010,378.43
+480,France,2015,329.52
+481,France,2019,319.61
+482,France,2020,279.99
+483,French Guiana ,1990,0.64
+484,French Guiana ,2000,0.46
+485,French Guiana ,2005,0.52
+486,French Guiana ,2010,0.65
+487,French Guiana ,2015,0.58
+488,French Guiana ,2019,0.52
+489,French Guiana ,2020,0.46
+490,French Polynesia ,1990,0.81
+491,French Polynesia ,2000,0.65
+492,French Polynesia ,2005,0.87
+493,French Polynesia ,2010,0.84
+494,French Polynesia ,2015,0.97
+495,French Polynesia ,2019,0.96
+496,French Polynesia ,2020,0.94
+497,Gabon ,1990,6.17
+498,Gabon ,2000,6.61
+499,Gabon ,2005,6.39
+500,Gabon ,2010,5.96
+501,Gabon ,2015,6.45
+502,Gabon ,2019,6.24
+503,Gabon ,2020,5.95
+504,Georgia ,1990,34.75
+505,Georgia ,2000,5.38
+506,Georgia ,2005,4.98
+507,Georgia ,2010,6.23
+508,Georgia ,2015,10.14
+509,Georgia ,2019,11.0
+510,Georgia ,2020,10.44
+511,Germany ,1990,1018.99
+512,Germany ,2000,878.37
+513,Germany ,2005,843.21
+514,Germany ,2010,818.07
+515,Germany ,2015,787.56
+516,Germany ,2019,702.2
+517,Germany ,2020,636.88
+518,Ghana ,1990,3.18
+519,Ghana ,2000,6.12
+520,Ghana ,2005,7.24
+521,Ghana ,2010,11.39
+522,Ghana ,2015,15.94
+523,Ghana ,2019,17.74
+524,Ghana ,2020,16.52
+525,Gibraltar ,1990,0.14
+526,Gibraltar ,2000,0.34
+527,Gibraltar ,2005,0.41
+528,Gibraltar ,2010,0.47
+529,Gibraltar ,2015,0.59
+530,Gibraltar ,2019,0.79
+531,Gibraltar ,2020,0.72
+532,Greece ,1990,79.09
+533,Greece ,2000,97.09
+534,Greece ,2005,104.85
+535,Greece ,2010,90.02
+536,Greece ,2015,70.56
+537,Greece ,2019,72.5
+538,Greece ,2020,56.13
+539,Greenland ,1990,0.0
+540,Greenland ,2000,0.0
+541,Greenland ,2005,0.62
+542,Greenland ,2010,0.65
+543,Greenland ,2015,0.53
+544,Greenland ,2019,0.52
+545,Greenland ,2020,0.47
+546,Grenada ,1990,0.12
+547,Grenada ,2000,0.17
+548,Grenada ,2005,0.19
+549,Grenada ,2010,0.23
+550,Grenada ,2015,0.28
+551,Grenada ,2019,0.21
+552,Grenada ,2020,0.18
+553,Guadeloupe ,1990,1.5
+554,Guadeloupe ,2000,1.69
+555,Guadeloupe ,2005,1.75
+556,Guadeloupe ,2010,1.99
+557,Guadeloupe ,2015,2.08
+558,Guadeloupe ,2019,1.82
+559,Guadeloupe ,2020,1.59
+560,Guatemala ,1990,3.92
+561,Guatemala ,2000,9.68
+562,Guatemala ,2005,11.74
+563,Guatemala ,2010,11.71
+564,Guatemala ,2015,17.18
+565,Guatemala ,2019,22.85
+566,Guatemala ,2020,19.62
+567,Guinea ,1990,1.13
+568,Guinea ,2000,1.73
+569,Guinea ,2005,1.98
+570,Guinea ,2010,2.72
+571,Guinea ,2015,2.7
+572,Guinea ,2019,3.07
+573,Guinea ,2020,2.77
+574,Guinea-Bissau ,1990,0.2
+575,Guinea-Bissau ,2000,0.24
+576,Guinea-Bissau ,2005,0.31
+577,Guinea-Bissau ,2010,0.34
+578,Guinea-Bissau ,2015,0.37
+579,Guinea-Bissau ,2019,0.32
+580,Guinea-Bissau ,2020,0.29
+581,Guyana ,1990,0.62
+582,Guyana ,2000,1.3
+583,Guyana ,2005,1.15
+584,Guyana ,2010,1.43
+585,Guyana ,2015,2.01
+586,Guyana ,2019,1.73
+587,Guyana ,2020,1.52
+588,Haiti ,1990,1.15
+589,Haiti ,2000,1.61
+590,Haiti ,2005,2.23
+591,Haiti ,2010,2.36
+592,Haiti ,2015,3.45
+593,Haiti ,2019,3.45
+594,Haiti ,2020,3.01
+595,Honduras ,1990,2.37
+596,Honduras ,2000,5.06
+597,Honduras ,2005,7.89
+598,Honduras ,2010,8.24
+599,Honduras ,2015,10.34
+600,Honduras ,2019,12.26
+601,Honduras ,2020,10.63
+602,Hong Kong ,1990,34.18
+603,Hong Kong ,2000,41.15
+604,Hong Kong ,2005,41.92
+605,Hong Kong ,2010,42.69
+606,Hong Kong ,2015,44.89
+607,Hong Kong ,2019,42.75
+608,Hong Kong ,2020,32.43
+609,Hungary ,1990,72.17
+610,Hungary ,2000,58.38
+611,Hungary ,2005,60.04
+612,Hungary ,2010,51.96
+613,Hungary ,2015,47.32
+614,Hungary ,2019,50.44
+615,Hungary ,2020,49.41
+616,Iceland ,1990,2.34
+617,Iceland ,2000,2.87
+618,Iceland ,2005,3.17
+619,Iceland ,2010,3.75
+620,Iceland ,2015,3.66
+621,Iceland ,2019,3.54
+622,Iceland ,2020,3.17
+623,India ,1990,598.96
+624,India ,2000,990.09
+625,India ,2005,1213.92
+626,India ,2010,1752.35
+627,India ,2015,2249.09
+628,India ,2019,2563.66
+629,India ,2020,2411.73
+630,Indonesia ,1990,164.58
+631,Indonesia ,2000,297.43
+632,Indonesia ,2005,361.72
+633,Indonesia ,2010,402.92
+634,Indonesia ,2015,514.05
+635,Indonesia ,2019,645.42
+636,Indonesia ,2020,568.27
+637,International Aviation ,1990,258.31
+638,International Aviation ,2000,354.52
+639,International Aviation ,2005,420.26
+640,International Aviation ,2010,457.47
+641,International Aviation ,2015,530.38
+642,International Aviation ,2019,615.89
+643,International Aviation ,2020,337.12
+644,International Shipping ,1990,371.28
+645,International Shipping ,2000,498.43
+646,International Shipping ,2005,571.5
+647,International Shipping ,2010,662.89
+648,International Shipping ,2015,660.11
+649,International Shipping ,2019,773.71
+650,International Shipping ,2020,764.82
+651,Iran ,1990,204.82
+652,Iran ,2000,352.77
+653,Iran ,2005,467.95
+654,Iran ,2010,575.31
+655,Iran ,2015,626.87
+656,Iran ,2019,685.92
+657,Iran ,2020,690.24
+658,Iraq ,1990,69.33
+659,Iraq ,2000,86.71
+660,Iraq ,2005,89.19
+661,Iraq ,2010,125.74
+662,Iraq ,2015,167.98
+663,Iraq ,2019,205.93
+664,Iraq ,2020,191.3
+665,Ireland ,1990,32.89
+666,Ireland ,2000,44.41
+667,Ireland ,2005,47.49
+668,Ireland ,2010,41.69
+669,Ireland ,2015,38.3
+670,Ireland ,2019,36.62
+671,Ireland ,2020,32.65
+672,Israel,1990,35.33
+673,Israel,2000,59.46
+674,Israel,2005,63.9
+675,Israel,2010,74.29
+676,Israel,2015,71.76
+677,Israel,2019,69.53
+678,Israel,2020,62.42
+679,Italy,1990,430.45
+680,Italy,2000,457.93
+681,Italy,2005,498.07
+682,Italy,2010,426.99
+683,Italy,2015,355.8
+684,Italy,2019,332.86
+685,Italy,2020,297.35
+686,Jamaica ,1990,7.53
+687,Jamaica ,2000,10.22
+688,Jamaica ,2005,10.63
+689,Jamaica ,2010,7.45
+690,Jamaica ,2015,7.41
+691,Jamaica ,2019,8.78
+692,Jamaica ,2020,7.88
+693,Japan ,1990,1162.69
+694,Japan ,2000,1241.46
+695,Japan ,2005,1272.65
+696,Japan ,2010,1221.47
+697,Japan ,2015,1245.43
+698,Japan ,2019,1139.49
+699,Japan ,2020,1061.77
+700,Jordan ,1990,10.09
+701,Jordan ,2000,15.49
+702,Jordan ,2005,19.78
+703,Jordan ,2010,20.62
+704,Jordan ,2015,25.69
+705,Jordan ,2019,27.04
+706,Jordan ,2020,26.48
+707,Kazakhstan ,1990,251.78
+708,Kazakhstan ,2000,131.42
+709,Kazakhstan ,2005,182.63
+710,Kazakhstan ,2010,243.65
+711,Kazakhstan ,2015,273.45
+712,Kazakhstan ,2019,273.61
+713,Kazakhstan ,2020,267.1
+714,Kenya ,1990,6.48
+715,Kenya ,2000,8.62
+716,Kenya ,2005,8.87
+717,Kenya ,2010,13.21
+718,Kenya ,2015,17.56
+719,Kenya ,2019,19.04
+720,Kenya ,2020,16.41
+721,Kiribati ,1990,0.02
+722,Kiribati ,2000,0.03
+723,Kiribati ,2005,0.06
+724,Kiribati ,2010,0.05
+725,Kiribati ,2015,0.06
+726,Kiribati ,2019,0.07
+727,Kiribati ,2020,0.06
+728,Kuwait ,1990,32.62
+729,Kuwait ,2000,54.86
+730,Kuwait ,2005,75.24
+731,Kuwait ,2010,86.2
+732,Kuwait ,2015,99.94
+733,Kuwait ,2019,98.35
+734,Kuwait ,2020,89.97
+735,Kyrgyzstan ,1990,23.7
+736,Kyrgyzstan ,2000,4.87
+737,Kyrgyzstan ,2005,5.5
+738,Kyrgyzstan ,2010,6.58
+739,Kyrgyzstan ,2015,10.67
+740,Kyrgyzstan ,2019,10.94
+741,Kyrgyzstan ,2020,11.46
+742,Laos ,1990,0.23
+743,Laos ,2000,0.98
+744,Laos ,2005,1.5
+745,Laos ,2010,3.02
+746,Laos ,2015,12.43
+747,Laos ,2019,41.99
+748,Laos ,2020,41.84
+749,Latvia ,1990,20.33
+750,Latvia ,2000,7.57
+751,Latvia ,2005,8.24
+752,Latvia ,2010,9.12
+753,Latvia ,2015,7.83
+754,Latvia ,2019,8.46
+755,Latvia ,2020,7.45
+756,Lebanon ,1990,5.98
+757,Lebanon ,2000,15.3
+758,Lebanon ,2005,16.6
+759,Lebanon ,2010,20.66
+760,Lebanon ,2015,26.88
+761,Lebanon ,2019,28.02
+762,Lebanon ,2020,26.77
+763,Lesotho ,1990,0.12
+764,Lesotho ,2000,0.39
+765,Lesotho ,2005,0.43
+766,Lesotho ,2010,0.53
+767,Lesotho ,2015,0.58
+768,Lesotho ,2019,0.71
+769,Lesotho ,2020,0.65
+770,Liberia ,1990,0.45
+771,Liberia ,2000,0.47
+772,Liberia ,2005,0.75
+773,Liberia ,2010,0.84
+774,Liberia ,2015,1.2
+775,Liberia ,2019,1.39
+776,Liberia ,2020,1.26
+777,Libya ,1990,37.15
+778,Libya ,2000,49.92
+779,Libya ,2005,56.83
+780,Libya ,2010,61.26
+781,Libya ,2015,51.48
+782,Libya ,2019,57.49
+783,Libya ,2020,52.61
+784,Lithuania ,1990,35.32
+785,Lithuania ,2000,11.8
+786,Lithuania ,2005,14.11
+787,Lithuania ,2010,13.95
+788,Lithuania ,2015,13.43
+789,Lithuania ,2019,13.91
+790,Lithuania ,2020,13.55
+791,Luxembourg ,1990,11.75
+792,Luxembourg ,2000,8.84
+793,Luxembourg ,2005,12.17
+794,Luxembourg ,2010,11.26
+795,Luxembourg ,2015,9.35
+796,Luxembourg ,2019,9.64
+797,Luxembourg ,2020,8.0
+798,Macao ,1990,0.94
+799,Macao ,2000,1.37
+800,Macao ,2005,1.93
+801,Macao ,2010,1.12
+802,Macao ,2015,2.09
+803,Macao ,2019,2.23
+804,Macao ,2020,2.19
+805,Madagascar ,1990,0.76
+806,Madagascar ,2000,2.06
+807,Madagascar ,2005,2.23
+808,Madagascar ,2010,2.57
+809,Madagascar ,2015,4.41
+810,Madagascar ,2019,4.69
+811,Madagascar ,2020,4.25
+812,Malawi ,1990,0.73
+813,Malawi ,2000,1.65
+814,Malawi ,2005,1.76
+815,Malawi ,2010,2.14
+816,Malawi ,2015,1.43
+817,Malawi ,2019,1.52
+818,Malawi ,2020,1.38
+819,Malaysia ,1990,57.51
+820,Malaysia ,2000,132.52
+821,Malaysia ,2005,183.09
+822,Malaysia ,2010,217.11
+823,Malaysia ,2015,253.0
+824,Malaysia ,2019,264.68
+825,Malaysia ,2020,262.17
+826,Maldives ,1990,0.09
+827,Maldives ,2000,0.58
+828,Maldives ,2005,0.62
+829,Maldives ,2010,0.87
+830,Maldives ,2015,1.51
+831,Maldives ,2019,1.7
+832,Maldives ,2020,1.67
+833,Mali ,1990,0.38
+834,Mali ,2000,0.95
+835,Mali ,2005,1.06
+836,Mali ,2010,2.14
+837,Mali ,2015,3.11
+838,Mali ,2019,3.86
+839,Mali ,2020,3.48
+840,Malta ,1990,2.35
+841,Malta ,2000,2.16
+842,Malta ,2005,2.67
+843,Malta ,2010,2.63
+844,Malta ,2015,1.71
+845,Malta ,2019,1.64
+846,Malta ,2020,1.55
+847,Martinique ,1990,1.59
+848,Martinique ,2000,1.89
+849,Martinique ,2005,1.88
+850,Martinique ,2010,2.04
+851,Martinique ,2015,1.94
+852,Martinique ,2019,2.04
+853,Martinique ,2020,1.77
+854,Mauritania ,1990,0.72
+855,Mauritania ,2000,1.23
+856,Mauritania ,2005,1.68
+857,Mauritania ,2010,2.25
+858,Mauritania ,2015,2.75
+859,Mauritania ,2019,2.95
+860,Mauritania ,2020,2.67
+861,Mauritius ,1990,1.19
+862,Mauritius ,2000,2.45
+863,Mauritius ,2005,2.98
+864,Mauritius ,2010,3.68
+865,Mauritius ,2015,4.0
+866,Mauritius ,2019,4.0
+867,Mauritius ,2020,3.63
+868,Mexico ,1990,291.04
+869,Mexico ,2000,397.97
+870,Mexico ,2005,448.86
+871,Mexico ,2010,479.37
+872,Mexico ,2015,491.48
+873,Mexico ,2019,487.57
+874,Mexico ,2020,407.7
+875,Moldova ,1990,31.96
+876,Moldova ,2000,6.82
+877,Moldova ,2005,8.28
+878,Moldova ,2010,8.48
+879,Moldova ,2015,8.2
+880,Moldova ,2019,8.25
+881,Moldova ,2020,8.49
+882,Mongolia ,1990,13.15
+883,Mongolia ,2000,9.05
+884,Mongolia ,2005,11.12
+885,Mongolia ,2010,14.59
+886,Mongolia ,2015,17.62
+887,Mongolia ,2019,38.42
+888,Mongolia ,2020,38.23
+889,Morocco ,1990,22.45
+890,Morocco ,2000,33.5
+891,Morocco ,2005,44.44
+892,Morocco ,2010,52.03
+893,Morocco ,2015,61.66
+894,Morocco ,2019,72.12
+895,Morocco ,2020,67.75
+896,Mozambique ,1990,1.18
+897,Mozambique ,2000,1.6
+898,Mozambique ,2005,2.7
+899,Mozambique ,2010,3.67
+900,Mozambique ,2015,7.85
+901,Mozambique ,2019,11.22
+902,Mozambique ,2020,9.94
+903,Myanmar/Burma ,1990,4.47
+904,Myanmar/Burma ,2000,10.09
+905,Myanmar/Burma ,2005,11.13
+906,Myanmar/Burma ,2010,8.62
+907,Myanmar/Burma ,2015,19.66
+908,Myanmar/Burma ,2019,37.9
+909,Myanmar/Burma ,2020,37.71
+910,Namibia ,1990,1.73
+911,Namibia ,2000,1.91
+912,Namibia ,2005,2.56
+913,Namibia ,2010,3.16
+914,Namibia ,2015,4.19
+915,Namibia ,2019,4.32
+916,Namibia ,2020,4.01
+917,Nepal ,1990,1.1
+918,Nepal ,2000,3.42
+919,Nepal ,2005,3.3
+920,Nepal ,2010,4.81
+921,Nepal ,2015,7.36
+922,Nepal ,2019,18.04
+923,Nepal ,2020,17.89
+924,Netherlands ,1990,161.4
+925,Netherlands ,2000,176.63
+926,Netherlands ,2005,181.89
+927,Netherlands ,2010,186.3
+928,Netherlands ,2015,170.73
+929,Netherlands ,2019,157.82
+930,Netherlands ,2020,144.69
+931,New Caledonia ,1990,1.57
+932,New Caledonia ,2000,2.59
+933,New Caledonia ,2005,3.14
+934,New Caledonia ,2010,3.6
+935,New Caledonia ,2015,4.56
+936,New Caledonia ,2019,7.4
+937,New Caledonia ,2020,7.32
+938,New Zealand ,1990,23.9
+939,New Zealand ,2000,33.6
+940,New Zealand ,2005,36.98
+941,New Zealand ,2010,34.02
+942,New Zealand ,2015,35.75
+943,New Zealand ,2019,37.31
+944,New Zealand ,2020,33.03
+945,Nicaragua ,1990,1.97
+946,Nicaragua ,2000,3.77
+947,Nicaragua ,2005,4.32
+948,Nicaragua ,2010,4.67
+949,Nicaragua ,2015,5.48
+950,Nicaragua ,2019,5.8
+951,Nicaragua ,2020,5.1
+952,Niger ,1990,1.08
+953,Niger ,2000,0.7
+954,Niger ,2005,0.8
+955,Niger ,2010,1.44
+956,Niger ,2015,2.12
+957,Niger ,2019,2.4
+958,Niger ,2020,2.16
+959,Nigeria ,1990,74.77
+960,Nigeria ,2000,100.02
+961,Nigeria ,2005,100.55
+962,Nigeria ,2010,90.19
+963,Nigeria ,2015,107.84
+964,Nigeria ,2019,133.47
+965,Nigeria ,2020,126.92
+966,North Korea ,1990,132.02
+967,North Korea ,2000,73.9
+968,North Korea ,2005,79.86
+969,North Korea ,2010,52.99
+970,North Korea ,2015,27.99
+971,North Korea ,2019,32.4
+972,North Korea ,2020,32.24
+973,North Macedonia ,1990,11.21
+974,North Macedonia ,2000,9.05
+975,North Macedonia ,2005,9.71
+976,North Macedonia ,2010,9.17
+977,North Macedonia ,2015,7.93
+978,North Macedonia ,2019,8.63
+979,North Macedonia ,2020,7.7
+980,Norway ,1990,37.44
+981,Norway ,2000,42.89
+982,Norway ,2005,44.22
+983,Norway ,2010,46.5
+984,Norway ,2015,44.96
+985,Norway ,2019,43.33
+986,Norway ,2020,42.18
+987,Oman ,1990,15.58
+988,Oman ,2000,25.32
+989,Oman ,2005,33.0
+990,Oman ,2010,51.37
+991,Oman ,2015,79.22
+992,Oman ,2019,87.39
+993,Oman ,2020,87.05
+994,Pakistan ,1990,65.35
+995,Pakistan ,2000,109.41
+996,Pakistan ,2005,132.46
+997,Pakistan ,2010,151.98
+998,Pakistan ,2015,174.17
+999,Pakistan ,2019,217.96
+1000,Pakistan ,2020,217.02
+1001,Palau ,1990,2.15
+1002,Palau ,2000,2.12
+1003,Palau ,2005,1.73
+1004,Palau ,2010,2.11
+1005,Palau ,2015,1.2
+1006,Palau ,2019,1.27
+1007,Palau ,2020,1.24
+1008,Panama ,1990,2.74
+1009,Panama ,2000,5.21
+1010,Panama ,2005,7.22
+1011,Panama ,2010,9.47
+1012,Panama ,2015,10.99
+1013,Panama ,2019,10.67
+1014,Panama ,2020,9.3
+1015,Papua New Guinea ,1990,2.11
+1016,Papua New Guinea ,2000,2.77
+1017,Papua New Guinea ,2005,4.85
+1018,Papua New Guinea ,2010,4.38
+1019,Papua New Guinea ,2015,6.37
+1020,Papua New Guinea ,2019,7.35
+1021,Papua New Guinea ,2020,7.26
+1022,Paraguay ,1990,2.27
+1023,Paraguay ,2000,3.75
+1024,Paraguay ,2005,3.93
+1025,Paraguay ,2010,5.33
+1026,Paraguay ,2015,6.55
+1027,Paraguay ,2019,8.95
+1028,Paraguay ,2020,7.84
+1029,Peru ,1990,20.89
+1030,Peru ,2000,29.03
+1031,Peru ,2005,31.87
+1032,Peru ,2010,45.78
+1033,Peru ,2015,54.79
+1034,Peru ,2019,55.08
+1035,Peru ,2020,44.48
+1036,Philippines ,1990,44.06
+1037,Philippines ,2000,76.89
+1038,Philippines ,2005,81.81
+1039,Philippines ,2010,87.51
+1040,Philippines ,2015,116.7
+1041,Philippines ,2019,150.1
+1042,Philippines ,2020,139.16
+1043,Poland ,1990,372.61
+1044,Poland ,2000,313.28
+1045,Poland ,2005,317.79
+1046,Poland ,2010,329.37
+1047,Poland ,2015,306.05
+1048,Poland ,2019,312.92
+1049,Poland ,2020,292.56
+1050,Portugal ,1990,43.61
+1051,Portugal ,2000,64.53
+1052,Portugal ,2005,68.15
+1053,Portugal ,2010,53.51
+1054,Portugal ,2015,52.24
+1055,Portugal ,2019,47.83
+1056,Portugal ,2020,40.43
+1057,Puerto Rico ,1990,0.92
+1058,Puerto Rico ,2000,1.69
+1059,Puerto Rico ,2005,2.31
+1060,Puerto Rico ,2010,2.34
+1061,Puerto Rico ,2015,4.17
+1062,Puerto Rico ,2019,4.17
+1063,Puerto Rico ,2020,3.96
+1064,Qatar ,1990,17.01
+1065,Qatar ,2000,31.79
+1066,Qatar ,2005,43.61
+1067,Qatar ,2010,68.97
+1068,Qatar ,2015,96.18
+1069,Qatar ,2019,108.57
+1070,Qatar ,2020,99.49
+1071,Réunion ,1990,1.02
+1072,Réunion ,2000,2.3
+1073,Réunion ,2005,2.56
+1074,Réunion ,2010,2.77
+1075,Réunion ,2015,2.66
+1076,Réunion ,2019,2.9
+1077,Réunion ,2020,2.41
+1078,Romania ,1990,186.65
+1079,Romania ,2000,97.05
+1080,Romania ,2005,104.68
+1081,Romania ,2010,82.61
+1082,Romania ,2015,79.44
+1083,Romania ,2019,80.77
+1084,Romania ,2020,75.8
+1085,Russia ,1990,2395.27
+1086,Russia ,2000,1673.01
+1087,Russia ,2005,1734.85
+1088,Russia ,2010,1733.51
+1089,Russia ,2015,1733.37
+1090,Russia ,2019,1777.91
+1091,Russia ,2020,1674.23
+1092,Rwanda ,1990,0.57
+1093,Rwanda ,2000,0.6
+1094,Rwanda ,2005,0.61
+1095,Rwanda ,2010,0.68
+1096,Rwanda ,2015,0.98
+1097,Rwanda ,2019,1.18
+1098,Rwanda ,2020,1.01
+1099,"Saint Helena, Ascension and Tristan da Cunha ",1990,0.01
+1100,"Saint Helena, Ascension and Tristan da Cunha ",2000,0.01
+1101,"Saint Helena, Ascension and Tristan da Cunha ",2005,0.01
+1102,"Saint Helena, Ascension and Tristan da Cunha ",2010,0.01
+1103,"Saint Helena, Ascension and Tristan da Cunha ",2015,0.01
+1104,"Saint Helena, Ascension and Tristan da Cunha ",2019,0.02
+1105,"Saint Helena, Ascension and Tristan da Cunha ",2020,0.02
+1106,Saint Kitts and Nevis ,1990,0.05
+1107,Saint Kitts and Nevis ,2000,0.15
+1108,Saint Kitts and Nevis ,2005,0.17
+1109,Saint Kitts and Nevis ,2010,0.2
+1110,Saint Kitts and Nevis ,2015,0.25
+1111,Saint Kitts and Nevis ,2019,0.16
+1112,Saint Kitts and Nevis ,2020,0.14
+1113,Saint Lucia ,1990,0.17
+1114,Saint Lucia ,2000,0.28
+1115,Saint Lucia ,2005,0.31
+1116,Saint Lucia ,2010,0.36
+1117,Saint Lucia ,2015,0.44
+1118,Saint Lucia ,2019,0.33
+1119,Saint Lucia ,2020,0.29
+1120,Saint Pierre and Miquelon ,1990,0.23
+1121,Saint Pierre and Miquelon ,2000,0.05
+1122,Saint Pierre and Miquelon ,2005,0.06
+1123,Saint Pierre and Miquelon ,2010,0.07
+1124,Saint Pierre and Miquelon ,2015,0.09
+1125,Saint Pierre and Miquelon ,2019,0.05
+1126,Saint Pierre and Miquelon ,2020,0.05
+1127,Saint Vincent and the Grenadines ,1990,0.07
+1128,Saint Vincent and the Grenadines ,2000,0.12
+1129,Saint Vincent and the Grenadines ,2005,0.18
+1130,Saint Vincent and the Grenadines ,2010,0.19
+1131,Saint Vincent and the Grenadines ,2015,0.23
+1132,Saint Vincent and the Grenadines ,2019,0.13
+1133,Saint Vincent and the Grenadines ,2020,0.12
+1134,Samoa ,1990,0.11
+1135,Samoa ,2000,0.14
+1136,Samoa ,2005,0.17
+1137,Samoa ,2010,0.18
+1138,Samoa ,2015,0.32
+1139,Samoa ,2019,0.36
+1140,Samoa ,2020,0.36
+1141,São Tomé and Príncipe ,1990,0.04
+1142,São Tomé and Príncipe ,2000,0.06
+1143,São Tomé and Príncipe ,2005,0.1
+1144,São Tomé and Príncipe ,2010,0.13
+1145,São Tomé and Príncipe ,2015,0.14
+1146,São Tomé and Príncipe ,2019,0.15
+1147,São Tomé and Príncipe ,2020,0.13
+1148,Saudi Arabia ,1990,173.48
+1149,Saudi Arabia ,2000,265.15
+1150,Saudi Arabia ,2005,347.26
+1151,Saudi Arabia ,2010,487.93
+1152,Saudi Arabia ,2015,611.59
+1153,Saudi Arabia ,2019,593.33
+1154,Saudi Arabia ,2020,588.81
+1155,Senegal ,1990,2.4
+1156,Senegal ,2000,4.04
+1157,Senegal ,2005,5.8
+1158,Senegal ,2010,7.05
+1159,Senegal ,2015,9.28
+1160,Senegal ,2019,10.94
+1161,Senegal ,2020,10.06
+1162,SRB,1990,66.41
+1163,SRB,2000,66.15
+1164,SRB,2005,82.27
+1165,SRB,2010,85.81
+1166,SRB,2015,83.2
+1167,SRB,2019,89.72
+1168,SRB,2020,77.53
+1169,Seychelles ,1990,0.31
+1170,Seychelles ,2000,0.9
+1171,Seychelles ,2005,1.08
+1172,Seychelles ,2010,0.99
+1173,Seychelles ,2015,1.0
+1174,Seychelles ,2019,1.2
+1175,Seychelles ,2020,1.18
+1176,Sierra Leone ,1990,0.76
+1177,Sierra Leone ,2000,0.46
+1178,Sierra Leone ,2005,0.58
+1179,Sierra Leone ,2010,0.74
+1180,Sierra Leone ,2015,1.02
+1181,Sierra Leone ,2019,1.11
+1182,Sierra Leone ,2020,1.01
+1183,Singapore ,1990,31.64
+1184,Singapore ,2000,45.54
+1185,Singapore ,2005,41.81
+1186,Singapore ,2010,49.06
+1187,Singapore ,2015,55.43
+1188,Singapore ,2019,56.7
+1189,Singapore ,2020,56.11
+1190,Slovakia ,1990,60.49
+1191,Slovakia ,2000,41.65
+1192,Slovakia ,2005,42.16
+1193,Slovakia ,2010,39.9
+1194,Slovakia ,2015,34.52
+1195,Slovakia ,2019,34.65
+1196,Slovakia ,2020,31.87
+1197,Slovenia ,1990,16.63
+1198,Slovenia ,2000,15.68
+1199,Slovenia ,2005,18.33
+1200,Slovenia ,2010,17.9
+1201,Slovenia ,2015,15.09
+1202,Slovenia ,2019,15.24
+1203,Slovenia ,2020,13.78
+1204,Solomon Islands ,1990,0.15
+1205,Solomon Islands ,2000,0.16
+1206,Solomon Islands ,2005,0.17
+1207,Solomon Islands ,2010,0.18
+1208,Solomon Islands ,2015,0.23
+1209,Solomon Islands ,2019,0.31
+1210,Solomon Islands ,2020,0.31
+1211,Somalia ,1990,0.73
+1212,Somalia ,2000,0.73
+1213,Somalia ,2005,0.83
+1214,Somalia ,2010,0.84
+1215,Somalia ,2015,0.82
+1216,Somalia ,2019,0.93
+1217,Somalia ,2020,0.77
+1218,South Africa ,1990,313.67
+1219,South Africa ,2000,346.6
+1220,South Africa ,2005,434.64
+1221,South Africa ,2010,460.44
+1222,South Africa ,2015,456.85
+1223,South Africa ,2019,467.9
+1224,South Africa ,2020,435.13
+1225,South Korea ,1990,271.08
+1226,South Korea ,2000,483.98
+1227,South Korea ,2005,516.46
+1228,South Korea ,2010,598.9
+1229,South Korea ,2015,643.24
+1230,South Korea ,2019,663.0
+1231,South Korea ,2020,621.47
+1232,Spain,1990,232.07
+1233,Spain,2000,314.32
+1234,Spain,2005,371.53
+1235,Spain,2010,291.33
+1236,Spain,2015,273.71
+1237,Spain,2019,255.83
+1238,Spain,2020,214.85
+1239,Sri Lanka ,1990,4.25
+1240,Sri Lanka ,2000,11.47
+1241,Sri Lanka ,2005,14.54
+1242,Sri Lanka ,2010,13.83
+1243,Sri Lanka ,2015,21.56
+1244,Sri Lanka ,2019,25.82
+1245,Sri Lanka ,2020,23.73
+1246,Sudan and South Sudan ,1990,5.59
+1247,Sudan and South Sudan ,2000,6.04
+1248,Sudan and South Sudan ,2005,10.93
+1249,Sudan and South Sudan ,2010,16.9
+1250,Sudan and South Sudan ,2015,21.05
+1251,Sudan and South Sudan ,2019,23.6
+1252,Sudan and South Sudan ,2020,19.95
+1253,Suriname ,1990,1.56
+1254,Suriname ,2000,1.48
+1255,Suriname ,2005,1.69
+1256,Suriname ,2010,1.72
+1257,Suriname ,2015,2.09
+1258,Suriname ,2019,1.9
+1259,Suriname ,2020,1.64
+1260,Sweden ,1990,58.11
+1261,Sweden ,2000,58.43
+1262,Sweden ,2005,55.97
+1263,Sweden ,2010,53.51
+1264,Sweden ,2015,44.13
+1265,Sweden ,2019,44.68
+1266,Sweden ,2020,42.3
+1267,Switzerland,1990,44.96
+1268,Switzerland,2000,44.93
+1269,Switzerland,2005,47.19
+1270,Switzerland,2010,46.49
+1271,Switzerland,2015,40.31
+1272,Switzerland,2019,39.74
+1273,Switzerland,2020,35.3
+1274,Syria ,1990,33.03
+1275,Syria ,2000,45.82
+1276,Syria ,2005,58.78
+1277,Syria ,2010,63.67
+1278,Syria ,2015,25.88
+1279,Syria ,2019,26.2
+1280,Syria ,2020,25.57
+1281,Taiwan ,1990,124.64
+1282,Taiwan ,2000,230.98
+1283,Taiwan ,2005,274.2
+1284,Taiwan ,2010,277.53
+1285,Taiwan ,2015,276.18
+1286,Taiwan ,2019,283.84
+1287,Taiwan ,2020,280.56
+1288,Tajikistan ,1990,12.27
+1289,Tajikistan ,2000,2.86
+1290,Tajikistan ,2005,3.28
+1291,Tajikistan ,2010,3.13
+1292,Tajikistan ,2015,5.18
+1293,Tajikistan ,2019,8.32
+1294,Tajikistan ,2020,9.0
+1295,Tanzania ,1990,2.11
+1296,Tanzania ,2000,3.11
+1297,Tanzania ,2005,5.97
+1298,Tanzania ,2010,7.29
+1299,Tanzania ,2015,11.79
+1300,Tanzania ,2019,12.76
+1301,Tanzania ,2020,11.47
+1302,Thailand ,1990,93.34
+1303,Thailand ,2000,173.51
+1304,Thailand ,2005,227.42
+1305,Thailand ,2010,247.02
+1306,Thailand ,2015,279.01
+1307,Thailand ,2019,269.12
+1308,Thailand ,2020,255.46
+1309,The Gambia ,1990,0.14
+1310,The Gambia ,2000,0.31
+1311,The Gambia ,2005,0.36
+1312,The Gambia ,2010,0.48
+1313,The Gambia ,2015,0.52
+1314,The Gambia ,2019,0.58
+1315,The Gambia ,2020,0.52
+1316,Timor-Leste ,1990,0.15
+1317,Timor-Leste ,2000,0.37
+1318,Timor-Leste ,2005,0.33
+1319,Timor-Leste ,2010,1.48
+1320,Timor-Leste ,2015,1.37
+1321,Timor-Leste ,2019,1.03
+1322,Timor-Leste ,2020,1.01
+1323,Togo ,1990,0.77
+1324,Togo ,2000,1.27
+1325,Togo ,2005,1.33
+1326,Togo ,2010,2.54
+1327,Togo ,2015,2.47
+1328,Togo ,2019,3.09
+1329,Togo ,2020,2.84
+1330,Tonga ,1990,0.08
+1331,Tonga ,2000,0.09
+1332,Tonga ,2005,0.11
+1333,Tonga ,2010,0.1
+1334,Tonga ,2015,0.13
+1335,Tonga ,2019,0.13
+1336,Tonga ,2020,0.12
+1337,Trinidad and Tobago ,1990,12.67
+1338,Trinidad and Tobago ,2000,18.8
+1339,Trinidad and Tobago ,2005,34.25
+1340,Trinidad and Tobago ,2010,40.6
+1341,Trinidad and Tobago ,2015,36.31
+1342,Trinidad and Tobago ,2019,33.23
+1343,Trinidad and Tobago ,2020,30.27
+1344,Tunisia ,1990,14.75
+1345,Tunisia ,2000,21.19
+1346,Tunisia ,2005,23.44
+1347,Tunisia ,2010,28.04
+1348,Tunisia ,2015,30.77
+1349,Tunisia ,2019,30.7
+1350,Tunisia ,2020,28.59
+1351,Turkey ,1990,150.38
+1352,Turkey ,2000,226.57
+1353,Turkey ,2005,244.61
+1354,Turkey ,2010,310.81
+1355,Turkey ,2015,366.25
+1356,Turkey ,2019,413.65
+1357,Turkey ,2020,405.2
+1358,Turkmenistan ,1990,45.64
+1359,Turkmenistan ,2000,39.37
+1360,Turkmenistan ,2005,52.95
+1361,Turkmenistan ,2010,61.63
+1362,Turkmenistan ,2015,75.91
+1363,Turkmenistan ,2019,81.38
+1364,Turkmenistan ,2020,80.64
+1365,Turks and Caicos Islands ,1990,0.0
+1366,Turks and Caicos Islands ,2000,0.06
+1367,Turks and Caicos Islands ,2005,0.1
+1368,Turks and Caicos Islands ,2010,0.15
+1369,Turks and Caicos Islands ,2015,0.2
+1370,Turks and Caicos Islands ,2019,0.22
+1371,Turks and Caicos Islands ,2020,0.19
+1372,Uganda ,1990,0.67
+1373,Uganda ,2000,1.62
+1374,Uganda ,2005,2.4
+1375,Uganda ,2010,4.17
+1376,Uganda ,2015,5.19
+1377,Uganda ,2019,6.2
+1378,Uganda ,2020,5.35
+1379,Ukraine ,1990,783.49
+1380,Ukraine ,2000,357.27
+1381,Ukraine ,2005,353.2
+1382,Ukraine ,2010,309.19
+1383,Ukraine ,2015,220.71
+1384,Ukraine ,2019,196.8
+1385,Ukraine ,2020,189.3
+1386,United Arab Emirates ,1990,56.94
+1387,United Arab Emirates ,2000,88.53
+1388,United Arab Emirates ,2005,122.47
+1389,United Arab Emirates ,2010,172.03
+1390,United Arab Emirates ,2015,208.15
+1391,United Arab Emirates ,2019,212.83
+1392,United Arab Emirates ,2020,203.14
+1393,United Kingdom ,1990,587.94
+1394,United Kingdom ,2000,552.0
+1395,United Kingdom ,2005,562.1
+1396,United Kingdom ,2010,502.02
+1397,United Kingdom ,2015,419.49
+1398,United Kingdom ,2019,359.42
+1399,United Kingdom ,2020,313.73
+1400,United States ,1990,5067.5
+1401,United States ,2000,6004.32
+1402,United States ,2005,5950.7
+1403,United States ,2010,5571.87
+1404,United States ,2015,5179.69
+1405,United States ,2019,5036.05
+1406,United States ,2020,4535.3
+1407,Uruguay ,1990,3.92
+1408,Uruguay ,2000,5.47
+1409,Uruguay ,2005,5.53
+1410,Uruguay ,2010,6.42
+1411,Uruguay ,2015,6.84
+1412,Uruguay ,2019,6.75
+1413,Uruguay ,2020,5.88
+1414,Uzbekistan ,1990,123.13
+1415,Uzbekistan ,2000,122.31
+1416,Uzbekistan ,2005,114.79
+1417,Uzbekistan ,2010,111.0
+1418,Uzbekistan ,2015,101.99
+1419,Uzbekistan ,2019,90.77
+1420,Uzbekistan ,2020,90.37
+1421,Vanuatu ,1990,0.1
+1422,Vanuatu ,2000,0.08
+1423,Vanuatu ,2005,0.08
+1424,Vanuatu ,2010,0.13
+1425,Vanuatu ,2015,0.15
+1426,Vanuatu ,2019,0.18
+1427,Vanuatu ,2020,0.17
+1428,Venezuela ,1990,102.74
+1429,Venezuela ,2000,132.92
+1430,Venezuela ,2005,153.45
+1431,Venezuela ,2010,189.33
+1432,Venezuela ,2015,172.33
+1433,Venezuela ,2019,108.78
+1434,Venezuela ,2020,88.95
+1435,Vietnam ,1990,20.53
+1436,Vietnam ,2000,56.52
+1437,Vietnam ,2005,100.43
+1438,Vietnam ,2010,156.84
+1439,Vietnam ,2015,219.43
+1440,Vietnam ,2019,328.18
+1441,Vietnam ,2020,321.93
+1442,Western Sahara ,1990,0.15
+1443,Western Sahara ,2000,0.26
+1444,Western Sahara ,2005,0.26
+1445,Western Sahara ,2010,0.25
+1446,Western Sahara ,2015,0.24
+1447,Western Sahara ,2019,0.23
+1448,Western Sahara ,2020,0.19
+1449,Yemen ,1990,7.09
+1450,Yemen ,2000,15.73
+1451,Yemen ,2005,21.99
+1452,Yemen ,2010,26.32
+1453,Yemen ,2015,14.44
+1454,Yemen ,2019,10.64
+1455,Yemen ,2020,10.32
+1456,Zambia ,1990,3.02
+1457,Zambia ,2000,1.96
+1458,Zambia ,2005,2.46
+1459,Zambia ,2010,2.29
+1460,Zambia ,2015,4.53
+1461,Zambia ,2019,8.11
+1462,Zambia ,2020,7.5
+1463,Zimbabwe ,1990,17.21
+1464,Zimbabwe ,2000,14.52
+1465,Zimbabwe ,2005,11.41
+1466,Zimbabwe ,2010,10.27
+1467,Zimbabwe ,2015,12.85
+1468,Zimbabwe ,2019,12.06
+1469,Zimbabwe ,2020,11.56
