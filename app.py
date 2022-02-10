@@ -130,12 +130,13 @@ fig_n.show()
 
 app.layout = html.Div(children=[
     html.Div([
-        html.H1(children='RECO2 Maps'),
-        html.H2(children="A web application to show the global growth of electricity production with Renewable Energy in relation to the growth of CO2-emissions. 'RECO2'"),
-        html.H5("by Andreas Ueberschaer"),
+        html.H1(children='RECO2 App'),
+        html.H2(children="A web application to show the global growth of electricity generation with Renewable Energy in relation to the growth of CO2-emissions. 'RECO2'"),
+        html.H6("by Andreas Ueberschaer"),
 
         html.Div(children='''
-            World Map displaying the growth of electricity production with renewable energy.
+        
+            World Map displaying the growth of electricity generation with renewable energy.
         '''),
 
         dcc.Graph(
@@ -147,6 +148,7 @@ app.layout = html.Div(children=[
     html.Div([
         
         html.Div(children='''
+        
             World Map displaying the growth of CO2-emissions.
         '''),
         
@@ -158,8 +160,12 @@ app.layout = html.Div(children=[
     
     html.Div([
         
-        html.H5(children="World Map displaying the growth of some pollutions"),
+        html.H5(children='''
+        
+            World Map displaying the growth of some pollutions
+        '''),
         html.Div(children='''
+        
             World Map displaying the growth of carbonmonoxide-emissions.
         '''),
         
@@ -172,6 +178,7 @@ app.layout = html.Div(children=[
     html.Div([
         
         html.Div(children='''
+        
             World Map displaying the growth of methane-emissions.
         '''),
         
@@ -184,6 +191,7 @@ app.layout = html.Div(children=[
     html.Div([
         
         html.Div(children='''
+        
             World Map displaying the growth of ozone-emissions.
         '''),
         
@@ -196,6 +204,7 @@ app.layout = html.Div(children=[
     html.Div([
         
         html.Div(children='''
+        
             World Map displaying the growth of nitrogendioxide-emissions.
         '''),
         
