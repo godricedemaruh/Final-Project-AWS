@@ -91,7 +91,7 @@ fig_m = px.scatter_geo(polls, locations="iso_code", color_discrete_sequence=["gr
                          title='Methane [mol/m2]')
 fig_m.update_layout(
     title={
-        'text': "PMethane [mol/m2]",
+        'text': "Methane [mol/m2]",
         'y':0.9,
         'x':0.5,
         'xanchor': 'center',
